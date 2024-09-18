@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    
+}
+body{
+    background-image: url(Mathematics-equations.jpg);
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+    margin: 10PX;
+}
+.container{
+    padding-left: 800px;
+    
+}
+.box{
+    height: 700px;
+    width: 500px;
+    margin-top: 60px; 
+    border: 3px solid white;
+    border-radius: 10px;
+    
+}
+.row{
+    text-align: center;
+    gap:10px;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    border-radius: 35%;
+    font-size: 55px;
+    background:grey;
+    color: rgb(255, 255, 255);
+    border: 3px solid white;
+    opacity: 0.8;
+    margin: 7.5px;
+    cursor: pointer;
+    
+}
+.input{
+    width:400px;
+    height:60px;
+    border-radius:10px;
+    margin:15px;
+    margin-bottom: 25px;
+    font-size: 55px;
+}
