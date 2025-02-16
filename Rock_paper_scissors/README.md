@@ -12,8 +12,12 @@ A simple Rock Paper Scissors game built using JavaScript, HTML, and CSS.
 📸 Screenshots
 -Start-Game
 Snapshots/start.png
+
+
 -Win
 Snapshots/win.png
+
+
 -Lost
 Snapshots/lose.png
 
