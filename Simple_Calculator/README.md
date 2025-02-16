@@ -7,8 +7,14 @@ A lightweight and interactive Simple Calculator built using HTML, CSS, and JavaS
 🚀 Features
 
 ✔ Supports Addition (+), Subtraction (-), Multiplication (×), and Division (÷)
+
+
 ✔ Responsive design for all screen sizes
+
+
 ✔ Clear button to reset calculations
+
+
 ✔ User-friendly interface
 
 
