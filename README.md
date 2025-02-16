@@ -82,7 +82,7 @@ Perfect for understanding event handling.
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/js-fun-projects.git
+git clone https://github.com/anisha0404/js-fun-projects.git
 cd js-fun-projects
 
 
