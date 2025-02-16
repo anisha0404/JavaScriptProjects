@@ -82,8 +82,8 @@ Perfect for understanding event handling.
 
 1. Clone the repository:
 
-git clone https://github.com/anisha0404/js-fun-projects.git
-cd js-fun-projects
+git clone https://github.com/anisha0404/JavaScriptProjects.git
+cd JavaScriptProjects
 
 
 2. Open the respective project folder.
