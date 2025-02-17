@@ -1,6 +1,3 @@
-Here’s an updated **README** including the **T-Rex Game** and **Currency Converter** projects! 🎉  
-
----
 
 # 🎮 JavaScript Fun Projects  
 
