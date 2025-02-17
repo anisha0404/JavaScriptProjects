@@ -4,6 +4,7 @@ This project is a simple Tic-Tac-Toe game built using JavaScript, HTML, and CSS.
 
 ## ✨ Features
 
+
 - Two-player gameplay. 👥
 - Simple and intuitive UI. 🎨
 - Displays winner or draw message at the end. 🏆
