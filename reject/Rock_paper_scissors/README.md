@@ -17,6 +17,7 @@ Snapshots/start.png
 -Win
 Snapshots/win.png
 
+
 -Lost
 Snapshots/lose.png
 
