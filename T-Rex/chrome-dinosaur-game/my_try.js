@@ -4,6 +4,7 @@ let boardHeight=400;
 let context;
 
 
+
 //dino
 let dinoWidth=88;
 let dinoHeight=94;
