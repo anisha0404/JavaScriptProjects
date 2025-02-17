@@ -1,5 +1,4 @@
 
-
 let bulbon=document.querySelector("#on");
 let bulboff=document.querySelector("#off");
 let imagebulb=document.querySelector("#bulb");
