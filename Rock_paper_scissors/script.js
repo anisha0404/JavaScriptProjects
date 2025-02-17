@@ -1,6 +1,7 @@
 let user=0;
 let comp=0;
 
+
 const choices=document.querySelectorAll(".choice");
 const msg=document.querySelector("#msg");
 const userpara=document.querySelector("#uscore");
